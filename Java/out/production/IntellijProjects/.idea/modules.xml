@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" filepath="$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntellijProjects.iml" filepath="$PROJECT_DIR$/.idea/IntellijProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResoluçãoTela/ResoluçãoTela.iml" filepath="$PROJECT_DIR$/ResoluçãoTela/ResoluçãoTela.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testeTipos/testeTipos.iml" filepath="$PROJECT_DIR$/testeTipos/testeTipos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiposPrimitivos/tiposPrimitivos.iml" filepath="$PROJECT_DIR$/tiposPrimitivos/tiposPrimitivos.iml" />
+    </modules>
+  </component>
+</project>

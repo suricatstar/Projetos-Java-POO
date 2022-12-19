@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HoraDoSistema">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HoraDoSistema/dist/HoraDoSistema.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
